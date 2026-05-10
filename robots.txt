@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Genesis601.github.io/resources-57iy0o/sitemap.xml
